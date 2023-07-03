@@ -1,0 +1,27 @@
+.container {
+  background-color: rgb(137, 137, 221);
+  margin: 20px;
+  padding: 20px;
+}
+.box input {
+  width: 80%;
+  height: 20px;
+}
+course {
+  width: 25px;
+  height: 20px;
+}
+button {
+  background-color: darkred;
+  color: aliceblue;
+  width: 80%;
+  height: 30px;
+  border-radius: 30px;
+  border-style: 20px;
+}
+.button :hover {
+  background-color: burlywood;
+}
+.button :active {
+  background-color: orange;
+}
